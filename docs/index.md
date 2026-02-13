@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: instruction
 title: Heat Controller
 ---
 ## Содержание

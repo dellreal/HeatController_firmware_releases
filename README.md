@@ -1,2 +1,5 @@
 # Heat Controller Firmware Releases
-Firmware binaries for OTA updates.
+
+Прошивки Heat Controller для обновления по OTA.
+
+[Пользовательская инструкция](docs/index.md)

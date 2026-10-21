@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "version": "1.11.1",
+  "prerelease": false,
+  "models": {
+    "esp32-c3": {
+      "assetName": "hc_fw_esp32-c3_v1.11.1.bin",
+      "downloadUrl": "https://github.com/dellreal/HeatController_firmware_releases/releases/download/v1.11.1/hc_fw_esp32-c3_v1.11.1.bin",
+      "sha256": "5840a324931656ee471bc3b2316c5b050ea2c3328e39223fec34ebdc543c35d4",
+      "sizeBytes": 1843760
+    },
+    "esp32-c5": {
+      "assetName": "hc_fw_esp32-c5_v1.11.1.bin",
+      "downloadUrl": "https://github.com/dellreal/HeatController_firmware_releases/releases/download/v1.11.1/hc_fw_esp32-c5_v1.11.1.bin",
+      "sha256": "cfd115099a42337aaecdc2617cd1d8ddbb47057deaef569c9c88f88c9ead585b",
+      "sizeBytes": 1920576
+    }
+  }
+}
